@@ -1,0 +1,35 @@
+
+  #group {
+    text-align: center; /* Centrēt tekstu */
+    font-size: 55px; /* Iestatīt lielu teksta lielumu */
+  }
+  .group-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size:18px; /* Iestatīt lielu teksta lielumu */
+  }
+  
+  .group-table th, .group-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .group-table th {
+    background-color: #f2f2f2;
+  }
+  
+  .selected {
+    background-color: #3de443;
+    font-size: 19px; /* Iestatīt lielu teksta lielumu */
+  }
+  .selectedGroup {
+    background-color: #3be640;
+    padding: 4px 8px;
+    border-radius: 4px;
+    font-size: 24px; /* Iestatīt lielu teksta lielumu */
+  }
+  button{
+    background-color: #dbf0dc;
+    font-size: 18px; /* Iestatīt lielu teksta lielumu */
+  }
